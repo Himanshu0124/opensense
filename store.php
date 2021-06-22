@@ -26,7 +26,7 @@
           
         if(mysqli_query($conn, $sql)){
             echo '<script>alert("Data Stored Successfully.")</script>';
-            header("Location:https://localhost/opensense");
+            header("Location: http://localhost/opensense/");
         } else{
             echo "ERROR: Hush! Sorry $sql. " 
                 . mysqli_error($conn);
