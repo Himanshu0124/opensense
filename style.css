@@ -1,0 +1,30 @@
+html
+{
+   margin:0;
+   padding: 0;
+}
+#myrow
+{
+    margin-right: 200px;
+}
+label#myrow1 {
+    margin-right: 168px;
+}
+label#myrow2 {
+    margin-right: 205px;
+}
+label#myrow3 {
+    margin-right: 140px;
+}
+label#myrow4 {
+    margin-right: 91px;
+}
+label#myrow5 {
+    margin-right: 102px;
+}
+label#myrow6 {
+    margin-right: 228px;
+}
+label#myrow7 {
+    margin-right: 55px;
+}
